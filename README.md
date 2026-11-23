@@ -21,7 +21,8 @@ README.md
 % The code was written with the assistance of AI and tested using the
 % example data provided: Example_3D_Res3Dinv_volume_3_profiles_use_Y_6_25.xyz (3D volume).
 % use the Y_coordinate: 6.25 m and check that the results are idntical to those provided.
-%
+
+
 % The code:
 % - Loads plain-text ASCII (XYZ) files produced by Res3Dinv.
 % - Identifies the number of blocks.
@@ -36,5 +37,6 @@ README.md
 % NOTE: This code is designed for resistivity data. If your file contains
 % chargeability values, the code must be modified to handle them. Support
 % for chargeability is planned for a future update.
+
 
 % to execute: copy in your favorite directory and excute res3dinv_xyz_gui
